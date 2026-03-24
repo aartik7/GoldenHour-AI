@@ -1,10 +1,12 @@
+
 # GoldenHour-AI
 AI-based accident detection and emergency response system
 
+
 🌟 Overview
 
-GoldenHour AI 🚑 is an AI-powered system designed to save lives by reducing delays in emergency response after road accidents. It detects accidents in real-time 📷, pinpoints the exact location 📍, and instantly alerts ambulances and nearby hospitals 🚨.
-
+GoldenHour AI 🚑 is an AI-powered system designed to save lives by reducing delays in emergency response after road accidents. 
+It detects accidents in real-time 📷, pinpoints the exact location 📍, and instantly alerts ambulances and nearby hospitals 🚨.
 By acting within the critical golden hour ⏱️, the system helps ensure faster medical assistance ❤️ and improves survival chances.
 
 
@@ -13,6 +15,7 @@ By acting within the critical golden hour ⏱️, the system helps ensure faster
 Every year, thousands of lives are lost due to delayed medical assistance after road accidents. The golden hour—the first hour after a traumatic injury—is the most critical period for saving lives.
 
 However, victims often do not receive help in time due to:
+
 ❌ Delayed or no accident reporting.
 
 ❌ Lack of real-time detection systems.
